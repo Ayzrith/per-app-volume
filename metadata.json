@@ -1,0 +1,15 @@
+{
+  "description": "Sağ üst panelden her uygulamanın sesini ayrı ayrı ayarlama",
+  "name": "Uygulama Ses Karıştırıcısı",
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50"
+  ],
+  "url": "https://github.com/Ayzrith/per-app-volume",
+  "uuid": "per-app-volume@gnome-shell-extensions",
+  "version": 3
+}

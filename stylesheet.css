@@ -1,0 +1,50 @@
+.pav-header .popup-menu-item {
+    font-weight: bold;
+}
+
+.pav-row {
+    min-width: 280px;
+    spacing: 2px;
+    padding: 4px 0;
+}
+
+.pav-app-icon {
+    margin-right: 8px;
+}
+
+.pav-app-name {
+    font-weight: normal;
+}
+
+.pav-pct {
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 0.9em;
+    margin-left: 8px;
+    min-width: 44px;
+    text-align: right;
+}
+
+.pav-mute-btn {
+    padding: 4px;
+    border-radius: 6px;
+    margin-left: 4px;
+}
+
+.pav-mute-btn:hover {
+    background-color: rgba(255, 255, 255, 0.12);
+}
+
+.pav-slider {
+    min-width: 280px;
+}
+
+.pav-count {
+    font-size: 0.85em;
+    color: rgba(255, 255, 255, 0.75);
+    margin-left: 2px;
+}
+
+.pav-empty {
+    color: rgba(255, 255, 255, 0.5);
+    font-style: italic;
+}
